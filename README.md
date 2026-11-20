@@ -20,14 +20,36 @@ I'm passionate about applying engineering principles to real-world problems, par
 ## 🚀 Featured Projects
 
 ### 🚂 STM32 Smart Railway Crossing
-University team project involving an STM32-based railway crossing demonstrator with ultrasonic sensing, automatic and manual operation, and servo-controlled barriers.
 
-[View Project](https://github.com/AhmedWaseim/STM32-Smart-Railway-Crossing)
+STM32-based smart railway crossing system featuring embedded C, automatic and manual control, ultrasonic sensing, PWM motor control, and a servo-operated gate.
+
+**Technologies:** STM32, Embedded C, Sensors, PWM, Embedded Systems
+
+[🔗 View Project](https://github.com/AhmedWaseim/STM32-Smart-Railway-Crossing)
+
+### ⚙️ Automated Can Crusher System
+
+Individual mechatronics engineering project combining SolidWorks mechanical design, Festo FluidSIM electropneumatic automation, and electrical control logic.
+
+**Technologies:** SolidWorks, Festo FluidSIM, Pneumatics, Sensors, Automation
+
+[🔗 View Project](https://github.com/AhmedWaseim/Automated-Can-Crusher-System)
 
 ### 🖥️ VHDL Edge Detection System
-Digital system design project involving gradient-based edge detection on a 10×10 grayscale image and coordinate output through seven-segment displays.
 
-[View Project](https://github.com/AhmedWaseim/VHDL-Edge-Detection-System)
+VHDL-based edge detection system for processing a 10×10 grayscale image, featuring digital image processing and coordinate output through seven-segment displays.
+
+**Technologies:** VHDL, Digital Logic, Image Processing, Hardware Design
+
+[🔗 View Project](https://github.com/AhmedWaseim/VHDL-Edge-Detection-System)
+
+### 🐍 FSM Application — Python
+
+Python-based project exploring finite-state machine concepts and state-driven program logic.
+
+**Technologies:** Python, Finite-State Machines, State Transitions
+
+[🔗 View Project](https://github.com/AhmedWaseim/fsm-application)
 ## 🎓 Education
 
 ### M.Sc. Engineering Cybernetics
