@@ -43,6 +43,16 @@ Interested in opportunities involving:
 
 - Embedded Software Development
 - Control Systems Engineering
+## 🌍 Languages & Certifications
+
+- **German:** B2 — telc certified (July 2026)
+- **English:** C1
+- **Arabic:** Native
+
+### German Language Certificates
+
+- 📜 [telc Deutsch B2 Certificate](telc-German-B2.pdf) — July 2026
+- 📜 [telc Deutsch B1 Certificate](telc-German-B1.pdf) — May 2026
 - Robotics and Automation
 - Automotive Electronics and Systems
 
