@@ -28,15 +28,33 @@ University team project involving an STM32-based railway crossing demonstrator w
 Digital system design project involving gradient-based edge detection on a 10×10 grayscale image and coordinate output through seven-segment displays.
 
 [View Project](https://github.com/AhmedWaseim/VHDL-Edge-Detection-System)
-
 ## 🎓 Education
 
-**M.Sc. Engineering Cybernetics**  
-University of Stuttgart, Germany | 2026–Present
+### M.Sc. Engineering Cybernetics
+**University of Stuttgart, Germany**  
+October 2026 – Present
 
-**B.Sc. Mechatronics Engineering**  
-German International University | 2026
+Focus areas:
+- Optimal Control
+- Computational Dynamics for Robotics
+- Computer-Aided Control
+- Dynamic System Modeling and Simulation
 
+### B.Sc. Mechatronics Engineering
+**German International University (GIU), Egypt**  
+Graduated: September 2026
+
+- Completed bachelor's graduation project at **Duale Hochschule Baden-Württemberg (DHBW), Germany**, from February to July 2026.
+- **Bachelor's Project Grade:** 98%
+- **GIU Scholarship Recipient**
+- **GUC Ranked Student**
+
+## 🏆 Academic Achievements
+
+- **98%** — Bachelor's graduation project grade.
+- **DHBW, Germany** — Completed a six-month bachelor's graduation project (February–July 2026).
+- **GIU Scholarship** — Awarded a scholarship during undergraduate studies.
+- **GUC Ranked Student** — Academic recognition.
 ## 🎯 Career Interests
 
 Interested in opportunities involving:
