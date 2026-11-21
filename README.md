@@ -63,7 +63,7 @@ Focus areas:
 - Dynamic System Modeling and Simulation
 
 ### B.Sc. Mechatronics Engineering
-**German International University (GIU), Egypt**  
+**German International University in Berlin  (GIU), Berlin**  
 Graduated: September 2026
 
 - Completed bachelor's graduation project at **Duale Hochschule Baden-Württemberg (DHBW), Germany**, from February to July 2026.
