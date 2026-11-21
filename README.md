@@ -10,7 +10,7 @@ I'm passionate about applying engineering principles to real-world problems, par
 
 ## 🔧 Technical Skills & Interests
 
-- **Programming:** C, Python, MATLAB
+- **Programming:** C, Python, MATLAB, Java
 - **Embedded Systems:** STM32 microcontrollers, sensors, actuators, PWM
 - **Digital Systems:** VHDL, digital logic, image processing
 - **Control Engineering:** System modeling, feedback control, stability analysis
